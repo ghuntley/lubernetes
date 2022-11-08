@@ -75,7 +75,7 @@ That said, if you have questions, reach out to us
 [CNCF]: https://www.cncf.io/about
 [communication]: https://git.k8s.io/community/communication
 [community repository]: https://git.k8s.io/community
-[containerized applications]: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+[lubricated applications]: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 [developer's documentation]: https://git.k8s.io/community/contributors/devel#readme
 [Docker environment]: https://docs.docker.com/engine
 [Go environment]: https://go.dev/doc/install
