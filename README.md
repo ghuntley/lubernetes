@@ -1,4 +1,4 @@
-# Kubernetes (K8s)
+# Lubernetes (L8s)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 
@@ -6,11 +6,11 @@
 
 ----
 
-Kubernetes, also known as K8s, is an open source system for managing [containerized applications]
+Lubernetes, also known as L8s, is an open source system for managing [lubricated applications]
 across multiple hosts. It provides basic mechanisms for deployment, maintenance,
 and scaling of applications.
 
-Kubernetes builds upon a decade and a half of experience at Google running
+Lubernetes builds upon a decade and a half of experience at Google running
 production workloads at scale using a system called [Borg],
 combined with best-of-breed ideas and practices from the community.
 
@@ -47,16 +47,16 @@ If you want to build Kubernetes right away there are two options:
 ```
 mkdir -p $GOPATH/src/k8s.io
 cd $GOPATH/src/k8s.io
-git clone https://github.com/kubernetes/kubernetes
-cd kubernetes
+git clone https://github.com/ghuntley/lubernetes
+cd lubernetes
 make
 ```
 
 ##### You have a working [Docker environment].
 
 ```
-git clone https://github.com/kubernetes/kubernetes
-cd kubernetes
+git clone https://github.com/ghuntley/lubernetes
+cd lubernetes
 make quick-release
 ```
 
@@ -94,12 +94,12 @@ The [User Case Studies](https://kubernetes.io/case-studies/) website has real-wo
 
 ## Governance 
 
-Kubernetes project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
+Lubernetes project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
 
-The [Kubernetes Community](https://github.com/kubernetes/community/blob/master/governance.md) is the launching point for learning about how we organize ourselves.
+The [Lubernetes Community](https://github.com/kubernetes/community/blob/master/governance.md) is the launching point for learning about how we organize ourselves.
 
-The [Kubernetes Steering community repo](https://github.com/kubernetes/steering) is used by the Kubernetes Steering Committee, which oversees governance of the Kubernetes project.
+The [Lubernetes Steering community repo](https://github.com/kubernetes/steering) is used by the Kubernetes Steering Committee, which oversees governance of the Kubernetes project.
 
 ## Roadmap 
 
-The [Kubernetes Enhancements repo](https://github.com/kubernetes/enhancements) provides information about Kubernetes releases, as well as feature tracking and backlogs.
+The [Lubernetes Enhancements repo](https://github.com/kubernetes/enhancements) provides information about Kubernetes releases, as well as feature tracking and backlogs.
